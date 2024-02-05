@@ -1,2 +1,2 @@
-# HTML-CSS-PROJECTS
-This repository contains all my basic html and css projects
+# BASIC CALCULATOR PROJECT
+This is my basic calculator project using HTML and CSS and JAVASCRIPT
